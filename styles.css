@@ -1,0 +1,11 @@
+.menu-image {
+	width: 50px; /* Adjust as needed */
+	height: 50px; /* Adjust as needed */
+	margin-right: 10px;
+	border-radius: 50%; /* For rounded image appearance */
+	object-fit: cover;
+}
+.title-div {
+	display: flex;
+	align-items: center;
+}
